@@ -34,7 +34,7 @@ Everything I publish is honest about its scope — these are **applied systems**
 - 🎯 &nbsp;Focus: **Applied AI & LLM systems**, language technology, robotics, intelligent systems
 - 🎓 &nbsp;Open to **Master's programmes** in AI/ML, Computer Science & Software Engineering
 - 📍 &nbsp;Based in **Yangzhou, Jiangsu, China**
-- 🗣️ &nbsp;**Bengali** (native) · **English** (fluent) · **Hindi** (fluent) · **Chinese** (basic conversational)
+- 🗣️ &nbsp;**Bengali** (native) · **English** (fluent) · **Hindi** (fluent spoken) · **Chinese** (basic conversational)
 
 ---
 
@@ -167,11 +167,11 @@ Converts manga, manhwa, webtoons and comics into narrated videos using locally s
 
 | Role | Organisation | When |
 |---|---|---|
-| Technical Support Assistant *(academic internship)* | Changzhou Luopanxing Detection Technology Co., Ltd. | Jun 2026 – May 2027 |
-| Frontend Web Designer Intern | BONGO IT Solutions | 2025 – Present |
-| Class Monitor *(officially certified)* | School of Information Engineering (AI), Yangzhou University | Jun 2024 – Jun 2025 |
+| Technical Support Assistant *(academic internship)* | Pyxis Lab® Inc. (Changzhou Luopanxing) | Jun 2026 – Present |
+| Frontend Web Designer Intern | BONGO IT Solutions | Jun 2025 – Jul 2026 |
+| Class Monitor *(officially certified)* | School of Information Engineering (AI), Yangzhou University | Sep 2024 – Present |
 | Student Assistant, Dormitory Affairs | College for Overseas Education | Sep 2024 – Jun 2026 |
-| Teaching Information Officer | Yangzhou University | Sep 2024 – Jun 2025 |
+| Teaching Information Officer | Yangzhou University | Sep 2024 – Present |
 | Founder — *The Call of Roots* | Bangladesh | 2019 – Present |
 
 ---
