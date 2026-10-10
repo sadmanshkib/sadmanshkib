@@ -146,7 +146,6 @@ Converts manga, manhwa, webtoons and comics into narrated videos using locally s
 
 <br/>
 
-<img width="100%" alt="GitHub insights" src="https://yourinsights.vercel.app/api/insight?username=sadmanshkib&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" />
 
 </div>
 
