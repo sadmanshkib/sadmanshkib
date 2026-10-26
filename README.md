@@ -168,7 +168,7 @@ Converts manga, manhwa, webtoons and comics into narrated videos using locally s
 | Role | Organisation | When |
 |---|---|---|
 | Technical Support Assistant *(academic internship)* | Pyxis Lab® Inc. (Changzhou Luopanxing) | Jun 2026 – Present |
-| Frontend Web Designer Intern | BONGO IT Solutions | Jun 2025 – Jul 2026 |
+| Frontend Web Designer Intern | BONGO IT Solutions | Jun 2025 – Jun 2026 |
 | Class Monitor *(officially certified)* | School of Information Engineering (AI), Yangzhou University | Sep 2024 – Present |
 | Student Assistant, Dormitory Affairs | College for Overseas Education | Sep 2024 – Jun 2026 |
 | Teaching Information Officer | Yangzhou University | Sep 2024 – Present |
