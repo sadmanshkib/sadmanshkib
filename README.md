@@ -22,7 +22,7 @@
 
 <img align="right" width="330" src="https://github-readme-stats.vercel.app/api?username=sadmanshkib&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=2DD4BF&text_color=93A5C4&rank_icon=github" alt="Shkib's GitHub stats" />
 
-Final-year **BSc Software Engineering** student at **Yangzhou University** — School of Information Engineering (School of Artificial Intelligence), graduating **June 2027**.
+Final-year **BSc Software Engineering** student at **Yangzhou University** — College of Information and Artificial Intelligence (College of Industrial Software), graduating **June 2027**.
 
 My work sits where pretrained models meet real deliverables: I wire speech recognition, machine translation, text-to-speech and media processing into pipelines that produce finished output files.
 
